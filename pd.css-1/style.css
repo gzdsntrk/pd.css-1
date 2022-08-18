@@ -1,0 +1,84 @@
+.h-pink { 
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    color: palevioletred;
+}
+
+.hood {
+    color: orange;
+}
+
+.h-purple {color: purple;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.h-orange {color:orange;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+
+.text {
+    width: 20%;
+    text-align: center;
+    display: table;
+    margin-left: 31.4%;
+    
+    
+}
+.list {
+    display: inline-block;
+    display: table-cell;
+ }
+
+.compo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+ul li {
+    margin-left: auto;
+    margin-right: auto;
+    width: 21%;
+}
+
+ol li {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
